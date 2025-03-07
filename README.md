@@ -89,10 +89,6 @@ docker rm ecommerce-container
 
 ---
 
-## **License**  
-This project is **open-source** and available under the **MIT License**.  
-
----
 
 ### 🌟 **Contributions & Feedback**  
 Feel free to **fork, modify, and contribute** to this project!  
